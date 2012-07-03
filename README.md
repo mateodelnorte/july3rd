@@ -25,10 +25,10 @@ Pre-reqs - Install this: https://devcenter.heroku.com/articles/heroku-command
 Provision (or use already provisioned) EC2 instance. Introduce 'deploy' and 'forever'. Use both to deploy our app to EC2 and guarantee it stays live.
 
 - Provision an ec2 instance using Amazon Linux via the AWS mgmt interface
-- Install node and npm - https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager
+- Install node and npm (https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager)
 - Install git ('sudo yum install git')
 - Install forever ('sudo npm install -g forever')
-- Deploy with 'deploy'. :D
+- Deploy with 'deploy'. :D (https://github.com/visionmedia/deploy/)
 
 # Scaling out 
 
