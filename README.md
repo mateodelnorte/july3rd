@@ -37,4 +37,6 @@ Using child_process to do long running worker tasks
 
 # Scaling far-out, man
 
+* Requires RabbitMQ installed and running on your machine (mac: 'brew install rabbitmq')
+
 Using RabbitMQ (but could be any other messaging medium) and multiple processes to make an event-based system
