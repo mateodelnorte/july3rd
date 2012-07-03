@@ -29,6 +29,7 @@ Provision (or use already provisioned) EC2 instance. Introduce 'deploy' and 'for
 - Install git ('sudo yum install git')
 - Install forever ('sudo npm install -g forever')
 - Deploy with 'deploy'. :D (https://github.com/visionmedia/deploy/)
+- sudo visudo & comment out Default TTY requirement
 
 # Scaling out 
 
