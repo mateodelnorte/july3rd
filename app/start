@@ -1,0 +1,1 @@
+RABBITMQ_URL=amqp://qcxleatb:zHJqYMNVbvzhrLgz@bjgyuvjj.heroku.srs.rabbitmq.com:10648/bjgyuvjj node app.js

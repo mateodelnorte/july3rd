@@ -5,5 +5,10 @@
   , "dependencies": {
       "express": "2.5.5"
     , "jade": ">= 0.0.1"
+    , "servicebus": "*"
+  },
+  "engines": {
+    "node": "0.6.x",
+    "npm":  "1.0.x"
   }
 }

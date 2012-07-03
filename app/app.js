@@ -30,6 +30,8 @@ app.configure('production', function(){
 // Routes
 
 app.get('/', routes.index);
+app.get('/forkit', routes.forkit);
+app.get('/farout', routes.farout);
 
 var port = process.env.PORT || 3000;
 
